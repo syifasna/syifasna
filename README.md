@@ -40,7 +40,9 @@
   <table border="0">
   <tr>
     <td align="center">
-      [![syifasna's GitHub | Stats](https://stats.quira.sh/syifasna/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=syifasna)
+      <a href="https://github.com/syifasna">
+        <img src="https://github-readme-stats.vercel.app/api?username=syifasna&show_icons=true&theme=dark&locale=en" alt="syifasna GitHub Stats" />
+      </a>
     </td>
     <td align="center">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=syifasna&show_icons=true&locale=en" alt="syifasna" />
