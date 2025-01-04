@@ -3,17 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syifasna&label=Profile%20views&color=0e75b6&style=flat" alt="syifasna" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syifasna" alt="syifasna" /></a> </p>
-
 - 💻 Woman behind [ziza.tech](https://github.com/TechWithZiza)
 
 - 👨‍💻 All of my projects are available at [SyifaShintawati.github.io](SyifaShintawati.github.io)
 
 - 💬 Let's talk about anything at [https://instagram.com/syifasma_](https://instagram.com/syifasma_)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
