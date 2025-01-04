@@ -4,9 +4,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syifasna&label=Profile%20views&color=0e75b6&style=flat" alt="syifasna" /> </p>
 
 - 💻 Woman behind [ziza.tech](https://github.com/TechWithZiza)
-
+- 🔭 Operational Excellence Officer at PMM 
+- 👀 Interested in Web Development & Data Scientist Analytics 
+- 🪄 Mostly code using Laravel
+- ⚡ Currently learning ReactJs and Data Science
+- 🌱 Actively engage in meaningful volunteer projects
 - 👨‍💻 All of my projects are available at [SyifaShintawati.github.io](SyifaShintawati.github.io)
-
 - 💬 Let's talk about anything at [https://instagram.com/syifasma_](https://instagram.com/syifasma_)
 
 <h3 align="left">Connect with me:</h3>
