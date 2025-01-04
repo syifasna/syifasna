@@ -53,7 +53,7 @@
         <img 
           src="https://stats.quira.sh/syifasna/languages-over-time?theme=dark" 
           alt="syifasna's GitHub | Languages Over Time" 
-          style="border: none;"
+          style="border: none; width: 50%;"
         />
       </a>
     </td>
