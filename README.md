@@ -40,8 +40,12 @@
   <table border="0">
   <tr>
     <td align="center">
-      <a href="https://github.com/syifasna">
-        <img src="https://github-readme-stats.vercel.app/api?username=syifasna&show_icons=true&theme=dark&locale=en" alt="syifasna GitHub Stats" />
+      <a href="https://quira.sh?utm_source=widgets&utm_campaign=syifasna">
+        <img 
+          src="https://stats.quira.sh/syifasna/github?theme=dark" 
+          alt="syifasna's GitHub Stats" 
+          style="border: none;"
+        />
       </a>
     </td>
     <td align="center">
