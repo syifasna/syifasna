@@ -37,7 +37,7 @@
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
   </p>
 
-  <table border="0" width="100%">
+  <table border="none" width="100%">
         <tr>
             <td align="center" width="50%">
                 <a href="https://quira.sh?utm_source=widgets&utm_campaign=syifasna">
