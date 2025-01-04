@@ -39,7 +39,7 @@
 
   <table border="1" width="100%">
         <tr>
-            <td align="center" style="width: 50%;">
+            <td align="center" width="50%">
                 <a href="https://quira.sh?utm_source=widgets&utm_campaign=syifasna">
                     <img 
                         src="https://stats.quira.sh/syifasna/github?theme=dark" 
@@ -48,7 +48,7 @@
                     />
                 </a>
             </td>
-            <td align="center" style="width: 50%;>
+            <td align="center" width="50%">
                 <a href="https://quira.sh?utm_source=widgets&utm_campaign=syifasna">
                     <img 
                         src="https://stats.quira.sh/syifasna/languages-over-time?theme=dark" 
