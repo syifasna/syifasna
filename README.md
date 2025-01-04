@@ -37,4 +37,14 @@
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
   </p>
 
-[![syifasna's GitHub | Stats](https://stats.quira.sh/syifasna/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=syifasna)
+  <table border="0">
+  <tr>
+    <td align="center">
+      [![syifasna's GitHub | Stats](https://stats.quira.sh/syifasna/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=syifasna)
+    </td>
+    <td align="center">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=syifasna&show_icons=true&locale=en" alt="syifasna" />
+    </td>
+  </tr>
+</table>
+
