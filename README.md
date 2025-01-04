@@ -49,7 +49,13 @@
       </a>
     </td>
     <td align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=syifasna&show_icons=true&locale=en" alt="syifasna" />
+      <a href="https://quira.sh?utm_source=widgets&utm_campaign=syifasna">
+        <img 
+          src="https://stats.quira.sh/syifasna/languages-over-time?theme=dark" 
+          alt="syifasna's GitHub | Languages Over Time" 
+          style="border: none;"
+        />
+      </a>
     </td>
   </tr>
 </table>
