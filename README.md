@@ -44,7 +44,7 @@
         <img 
           src="https://stats.quira.sh/syifasna/github?theme=dark" 
           alt="syifasna's GitHub Stats" 
-          style="border: none; width: 50%;"
+          style="border: none; width: 100%;"
         />
       </a>
     </td>
