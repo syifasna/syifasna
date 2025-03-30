@@ -36,27 +36,5 @@
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
   </p>
 
-  <h3 align="left">💻 Activity</h3>
-  <table border="0" cellspacing="0" cellpadding="0" width="100%">
-        <tr>
-            <td align="center" width="50%">
-                <a href="https://quira.sh?utm_source=widgets&utm_campaign=syifasna">
-                    <img 
-                        src="https://stats.quira.sh/syifasna/github?theme=dark" 
-                        alt="syifasna's GitHub Stats"
-                        style="width: 100%; max-width: 300px; height: auto;"
-                    />
-                </a>
-            </td>
-            <td align="center" width="50%">
-                <a href="https://quira.sh?utm_source=widgets&utm_campaign=syifasna">
-                    <img 
-                        src="https://stats.quira.sh/syifasna/languages-over-time?theme=dark" 
-                        alt="syifasna's GitHub | Languages Over Time"
-                        style="width: 100%; max-width: 300px; height: auto;"
-                    />
-                </a>
-            </td>
-        </tr>
-    </table>
+
 
