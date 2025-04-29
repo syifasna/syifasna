@@ -7,7 +7,6 @@
 - 🔭 Operational Excellence Officer at PMM 
 - 👀 Interested in Web Development & Data Scientist Analytics 
 - 🪄 Mostly code using Laravel
-- ⚡ Currently learning ReactJs and Data Science
 - 🌱 Actively engage in meaningful volunteer projects
 <!-- - 👨‍💻 All of my projects are available at [SyifaShintawati.github.io](SyifaShintawati.github.io) -->
 
