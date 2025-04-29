@@ -37,13 +37,11 @@
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 </p>
 
-<center>
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=syifasna&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=syifasna&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=syifasna&icon=0&color=0)](https://visitcount.itsvg.in)
-</center>
 
 
