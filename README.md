@@ -35,5 +35,8 @@
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
   </p>
 
+  https://github-readme-streak-stats.herokuapp.com/?user=your-syifasna
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-syifasna&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 
