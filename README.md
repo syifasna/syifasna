@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=syifasna&label=Profile%20views&color=0e75b6&style=flat" alt="syifasna" />
 </p>
 
-- 💻 Woman behind [Zynera](https://github.com/TechWithZiza)  
+- 💻 Woman behind [Zynera](https://github.com/ZyneraOfficial)  
 - 🔭 Operational Excellence Officer at PMM  
 - 👀 Interested in Web Development & Data Science Analytics  
 - 🪄 Mostly code using Laravel  
